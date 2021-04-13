@@ -1,0 +1,6 @@
+.cabecera{
+
+    background-image: url('../img/cabecerafiltro.jpg');
+    height: calc(100vh - 57px);
+    background-size:cover;
+}
